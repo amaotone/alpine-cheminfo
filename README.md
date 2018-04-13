@@ -1,6 +1,6 @@
 # alpine-cheminfo
 
-alpine linux + chemoinfo packages
+alpine linux + cheminfo packages
 
 ## Usage
 
